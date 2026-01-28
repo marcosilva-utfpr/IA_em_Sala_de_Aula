@@ -75,7 +75,7 @@ Avaliação formativa, baseada em participação, resolução de problemas e com
 
 ---
 
-## 📎 Arquivos do Repositório  
+## 📎 Arquivos do Repositório 
 [Assistido por IA]
 
 - 📄 [Plano_de_Aula_IA.docx](Plano_de_Aula_IA.docx)  
@@ -84,8 +84,7 @@ Avaliação formativa, baseada em participação, resolução de problemas e com
 
 ---
 
-## ✅ Checklist de Envio  
-[Assistido por IA]
+## ✅ Checklist de Envio  [Assistido por IA]
 
 - [x] Plano de aula completo e estruturado  
 - [x] Materiais complementares e adaptações pedagógicas  
@@ -96,16 +95,14 @@ Avaliação formativa, baseada em participação, resolução de problemas e com
 
 ---
 
-## 👥 Créditos  
-[Assistido por IA]
+## 👥 Créditos  [Assistido por IA]
 
 Projeto desenvolvido com apoio de **Inteligência Artificial (ChatGPT e Copilot)**, sob mediação e curadoria pedagógica do professor responsável.  
 O uso da IA foi orientado por princípios de **ética, transparência, autoria docente e proteção de dados**, sem utilização de informações pessoais de estudantes.
 
 ---
 
-# ✍️ Reflexão Crítica sobre o Uso de IA no Projeto (400–600 palavras)  
-[Assistido por IA]
+# ✍️ Reflexão Crítica sobre o Uso de IA no Projeto [Assistido por IA]
 
 O uso de Inteligência Artificial neste projeto evidenciou o potencial dessas ferramentas como **aliadas estratégicas do trabalho docente**, especialmente nas etapas de planejamento, organização e diversificação pedagógica. Ferramentas como ChatGPT e Copilot mostraram-se eficazes para estruturar ideias, sugerir sequências didáticas coerentes e apoiar a criação de materiais alinhados aos objetivos de aprendizagem. O ganho de tempo foi significativo: tarefas que normalmente demandariam horas de escrita e revisão puderam ser realizadas de forma mais ágil, permitindo ao professor concentrar-se na análise pedagógica e na tomada de decisões didáticas.
 
